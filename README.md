@@ -1,2 +1,2 @@
-# testes.python
+# estudo.python
 Estudos em Python
